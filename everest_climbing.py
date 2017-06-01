@@ -11,8 +11,8 @@ import time
 from requests_oauthlib import OAuth2Session
 
 
-CLIENT_ID = r''
-CLIENT_SECRET = r''
+CLIENT_ID = r''  # Straa API client ID
+CLIENT_SECRET = r''  # Strava API client secret
 REDIRECT_URI = 'https://localhost'
 
 
